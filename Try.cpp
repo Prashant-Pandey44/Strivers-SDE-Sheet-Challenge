@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Try File \n";
+    cout<<"git push -u origin main \n";
     return 0;
 }
